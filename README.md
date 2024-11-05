@@ -8,6 +8,9 @@
 
 Proyek ini berisi dua folder utama yang mendokumentasikan putusan pidana khusus mengenai kasus narkotika dan psikotropika yang ditangani oleh Pengadilan Negeri Pasuruan dalam rentang waktu 2022 hingga 2024. 
 
+## Sumber Putusan
+Putusan yang digunakan dalam proyek ini diperoleh dari [website Mahkamah Agung](https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-pasuruan/kategori/narkotika-dan-psikotropika-1.html).
+
 ## Struktur Folder
 
 ### Folder 1: Putusan Pidana Khusus
